@@ -1,0 +1,1 @@
+This is my first project while completed The Odin Project Curriculum. It will allow me to practice the command line and html lessons I've taken. 
